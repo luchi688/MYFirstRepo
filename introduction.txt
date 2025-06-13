@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Okonkwo Oluchi, and I am an aspiring computer engineer with a strong passion for technology and innovation. I am currently learning how to use GitHub and Termux as part of my journey to build a solid foundation in software development and version control.
+
+This repository is part of my early projects as I explore the world of programming and open-source collaboration. I believe technology can change lives, and I'm excited to grow in this field.
